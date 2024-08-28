@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ali Elhaies (Cybug20)
+- 👋 Hi, I’m Ali Elhaies (Cybug20)
 - 👀 I’m interested in Programming & Security
 - 🌱 I’m currently learning CCNA 200-301
 - 💞️ I’m looking to collaborate on a company to make a perfect projects
